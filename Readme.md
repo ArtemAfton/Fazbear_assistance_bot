@@ -5,4 +5,5 @@
 /start - запуск бота \
 /help - помощь \
 /debug - логи \
-/tts, /stt - проверка работы speechkit 
+/tts, /stt - проверка работы speechkit \
+**Ссылка на бота:** https://t.me/FAZBEARASSISTANCE_bot 
